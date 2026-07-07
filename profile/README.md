@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Laiqon/.github/main/profile/laiqon-logo-horizontal-light.png" alt="Laiqon" width="460" />
-</p>
+![alt text](https://github.com/Paolium/.github/blob/main/logos/paolium-logo-x-light.png?raw=true)
 
 <p align="center">
   <strong>Software mexicano, minimalista y bien hecho.</strong>
@@ -10,54 +8,42 @@
   <a href="mailto:cgomezsimon@icloud.com">Contacto</a>
 </p>
 
----
 
-## Laiqon
+## Paolium
 
-**Laiqon** es una marca mexicana de software enfocada en crear productos digitales simples, sólidos y bien construidos.
+**Paolium** es una marca mexicana de software enfocada en crear productos digitales simples, sólidos y bien construidos — minimalistas por fuera, cuidadosamente diseñados por dentro.
 
-Nació de una forma clara de entender el desarrollo: hacer software minimalista por fuera, pero cuidadosamente diseñado por dentro. La calidad no termina en la interfaz; también vive en la arquitectura, el código, la base de datos, los flujos, el mantenimiento y cada detalle que sostiene al producto.
-
-Construimos herramientas digitales con enfoque en productividad, educación, automatización y soluciones a medida para necesidades reales.
+La calidad no termina en la interfaz: también vive en la arquitectura, el código, los flujos y cada detalle que sostiene al producto.
 
 ## Qué construimos
 
-### 🎨 [Laiqon VS Code Theme](https://github.com/Laiqon/vscode-laiqon-theme)
+Herramientas con intención.
 
-Un tema para Visual Studio Code diseñado con una estética limpia, cómoda y profesional.
+### 🎨 [Paolium Theme](https://marketplace.visualstudio.com/items?itemName=Paolium.paolium-theme)
 
-### 🍅 [Laiqon Pomodoro](https://github.com/Laiqon/vscode-laiqon-pomodoro)
+Extensión para VS Code. Un tema con estética limpia, cómoda y profesional.
 
-Una extensión Pomodoro para VS Code enfocada en productividad, simplicidad y concentración.
+### 🍅 [Paolium Pomodoro](https://marketplace.visualstudio.com/items?itemName=Paolium.paolium-pomodoro)
+
+Extensión para VS Code. Pomodoro enfocado en productividad, simplicidad y concentración.
 
 ### 📚 MissPao
 
-Producto en desarrollo para apoyar a maestras y maestros del sector SEP en México.
+Aplicación web · Educación — en desarrollo.
 
-MissPao está pensado para facilitar la gestión de planeaciones, listas de asistencia, bitácoras y otros documentos esenciales en escuelas primarias.
+Para maestras y maestros del sector SEP: planeaciones, asistencia, bitácoras y documentos esenciales en primarias.
 
-## Lo que hacemos bien
+## Diseñado al detalle. Hecho para funcionar.
 
-Laiqon combina experiencia técnica, criterio de producto y atención al detalle para construir software claro, funcional y mantenible.
-
-Trabajamos con una base sólida en:
-
-- Desarrollo web y aplicaciones empresariales
-- APIs y sistemas internos
-- Bases de datos
-- Arquitectura de software
-- Automatización de procesos
-- Herramientas para productividad
-- Software educativo
-- Soluciones digitales a medida
-
-La experiencia detrás de Laiqon viene de años construyendo software real para entornos empresariales y educativos: sistemas escolares, pagos en línea, certificados electrónicos, integraciones y plataformas internas.
+Cada elemento tiene un propósito, cada detalle una razón de ser.
 
 ## Principios
 
-### Menos, pero mejor
+Cada decisión importa.
 
-Construir solo lo necesario, pero hacerlo con claridad, intención y cuidado.
+### Diseñado al detalle
+
+Cada elemento tiene un propósito, cada detalle una razón de ser.
 
 ### Calidad por dentro y por fuera
 
@@ -65,31 +51,29 @@ Un buen producto debe verse bien, funcionar bien y estar construido sobre una ba
 
 ### Detalle con propósito
 
-Cada decisión importa: diseño, código, estructura, experiencia y mantenimiento.
+Diseño, código, estructura, experiencia y mantenimiento.
 
-### Software útil, claro y bien hecho
+### Útil, claro y bien hecho
 
-No se trata solo de resolver técnicamente un problema, sino de crear algo que realmente ayude, se entienda y pueda crecer con orden.
+No solo resolver un problema: crear algo que ayude, se entienda y crezca con orden.
 
 ## Visión
 
-Laiqon busca construir productos digitales con una intención clara: herramientas simples, funcionales y bien hechas para personas que necesitan resolver, crear, administrar o trabajar mejor.
+### Lo que se cultiva con paciencia.
 
-También creemos en una forma de trabajo basada en responsabilidad, gratitud y compromiso.
+Herramientas simples, funcionales y bien hechas para personas que necesitan resolver, crear, administrar o trabajar mejor.
 
-El símbolo de Laiqon toma inspiración del trigo, una imagen con significado bíblico asociado al fruto, el crecimiento y lo que se cultiva con paciencia.
+El símbolo de Paolium toma inspiración del trigo — una imagen con significado bíblico asociada al fruto y al crecimiento. Trabajamos con responsabilidad, gratitud y compromiso.
 
-## Colaboraciones
+## ¿Construimos algo?
 
-Laiqon está abierto a colaboraciones, desarrollo freelance y nuevos productos digitales.
-
-Si necesitas construir una herramienta, una aplicación interna, una extensión, un sistema web o una solución a medida, podemos hablar.
+Colaboraciones, desarrollo freelance y nuevos productos digitales.
 
 📧 [cgomezsimon@icloud.com](mailto:cgomezsimon@icloud.com)
 
 ---
 
 <p align="center">
-  <strong>Laiqon</strong><br />
+  <strong>Paolium</strong><br />
   Software mexicano, minimalista y bien hecho.
 </p>
