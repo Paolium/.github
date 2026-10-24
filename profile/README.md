@@ -1,79 +1,94 @@
-![alt text](https://github.com/Paolium/.github/blob/main/logos/paolium-logo-x-light.png?raw=true)
-
 <p align="center">
-  <strong>Software mexicano, minimalista y bien hecho.</strong>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Paolium/.github/blob/main/logos/paolium-logo-large-light.png?raw=true" />
+    <img src="https://github.com/Paolium/.github/blob/main/logos/paolium-logo-large-dark.png?raw=true" alt="Paolium" width="420" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="mailto:cgomezsimon@icloud.com">Contacto</a>
+  Proyectos independientes, human-first asistidos por IA.
 </p>
 
+<p align="center">
+  <strong>Software mexicano, minimalista y bien hecho.</strong><br />
+  Productos minimalistas por fuera, cuidadosamente diseñados por dentro.
+</p>
 
-## Paolium
+<p align="center">
+  <a href="https://paolium.web.app/">paolium.web.app</a> ·
+  <a href="mailto:cgomezsimon@icloud.com">cgomezsimon@icloud.com</a>
+</p>
 
-**Paolium** es una marca mexicana de software enfocada en crear productos digitales simples, sólidos y bien construidos — minimalistas por fuera, cuidadosamente diseñados por dentro.
+---
+
+## Herramientas con intención
 
 La calidad no termina en la interfaz: también vive en la arquitectura, el código, los flujos y cada detalle que sostiene al producto.
 
-## Qué construimos
+### [MissPao](https://misspao.com.mx/)
 
-Herramientas con intención.
+*Aplicación web · Educación*
 
-### 🎨 [Paolium Theme](https://marketplace.visualstudio.com/items?itemName=Paolium.paolium-theme)
+La asistente con IA para maestras y maestros de la SEP. Genera planeaciones alineadas a la Nueva Escuela Mexicana, documentos de inicio de clases y material único para tu grupo. Menos papeleo, más tiempo para enseñar. Empieza gratis.
 
-Extensión para VS Code. Un tema con estética limpia, cómoda y profesional.
+### [Lupa Lupa](https://lupalupa.com.mx/)
 
-### 🍅 [Paolium Pomodoro](https://marketplace.visualstudio.com/items?itemName=Paolium.paolium-pomodoro)
+*Entretenimiento · Eventos*
 
-Extensión para VS Code. Pomodoro enfocado en productividad, simplicidad y concentración.
+Animación, juegos y dinámicas para fiestas infantiles y eventos sociales. Tú organizas la fiesta; nosotros hacemos que chicos y grandes la vivan, con juegos en vivo como Cien Voces.
 
-### 📚 MissPao
+### [Paolium Theme](https://marketplace.visualstudio.com/items?itemName=Paolium.paolium-theme)
 
-Aplicación web · Educación — en desarrollo.
+*Extensión para VS Code*
 
-Para maestras y maestros del sector SEP: planeaciones, asistencia, bitácoras y documentos esenciales en primarias.
+Siete variantes, seis oscuras y una clara, con los colores de la marca. Un editor limpio, cómodo y profesional, pensado para jornadas largas de código.
 
-## Diseñado al detalle. Hecho para funcionar.
+### [Paolium Pomodoro](https://marketplace.visualstudio.com/items?itemName=Paolium.paolium-pomodoro)
 
-Cada elemento tiene un propósito, cada detalle una razón de ser.
+*Extensión para VS Code*
 
-## Principios
+Enfócate sin salir de tu editor. Sesiones a tu medida, alertas de sonido, temporizador en la barra de estado y notas adhesivas para no perder ninguna idea.
 
-Cada decisión importa.
+---
 
-### Diseñado al detalle
+<h2 align="center">Diseñado al detalle. Hecho para funcionar.</h2>
 
-Cada elemento tiene un propósito, cada detalle una razón de ser.
+<p align="center">Cada elemento tiene un propósito, cada detalle una razón de ser.</p>
 
-### Calidad por dentro y por fuera
+---
 
-Un buen producto debe verse bien, funcionar bien y estar construido sobre una base sólida.
+## Cada decisión importa
 
-### Detalle con propósito
+**Human-first, asistido por IA.** Entender el problema y decidir qué construir es trabajo humano. La IA potencia el desarrollo, nunca sustituye el criterio.
 
-Diseño, código, estructura, experiencia y mantenimiento.
+**Diseño intencional.** Cada elemento tiene un propósito, cada detalle una razón de ser.
 
-### Útil, claro y bien hecho
+**Calidad por dentro y por fuera.** Un buen producto debe verse bien, funcionar bien y estar construido sobre una base sólida.
 
-No solo resolver un problema: crear algo que ayude, se entienda y crezca con orden.
+**Pensado para durar.** Código limpio y estructura ordenada, fáciles de mantener y evolucionar.
 
-## Visión
+**Útil, claro y bien hecho.** No solo resolver un problema: crear algo que ayude, se entienda y crezca con orden.
 
-### Lo que se cultiva con paciencia.
+---
 
-Herramientas simples, funcionales y bien hechas para personas que necesitan resolver, crear, administrar o trabajar mejor.
+## Quién está detrás
 
-El símbolo de Paolium toma inspiración del trigo — una imagen con significado bíblico asociada al fruto y al crecimiento. Trabajamos con responsabilidad, gratitud y compromiso.
+**Christian Gómez Simón**, desarrollador Full Stack con más de 10 años creando aplicaciones empresariales, sistemas internos y soluciones a la medida. Paolium es su espacio de proyectos independientes, donde diseña y publica software propio.
 
-## ¿Construimos algo?
+Su estándar es simple: no hacer tecnología por hacer tecnología. Cada proyecto existe para resolver algo real, con la misma exigencia en lo que se ve y en lo que lo sostiene por dentro. El criterio humano guía cada decisión; la IA acelera el desarrollo.
 
-Colaboraciones, desarrollo freelance y nuevos productos digitales.
+[Conoce su trayectoria completa →](https://paolium.web.app/cgomezsimon)
 
-📧 [cgomezsimon@icloud.com](mailto:cgomezsimon@icloud.com)
+---
+
+## Lo que se cultiva con paciencia
+
+El símbolo de Paolium toma inspiración del trigo, una imagen con significado bíblico asociada al fruto y al crecimiento. Trabajamos con responsabilidad, gratitud y compromiso.
 
 ---
 
 <p align="center">
-  <strong>Paolium</strong><br />
-  Software mexicano, minimalista y bien hecho.
+  <strong>¿Construimos algo?</strong><br />
+  Colaboraciones, desarrollo freelance y nuevos productos digitales.<br />
+  <a href="mailto:cgomezsimon@icloud.com">cgomezsimon@icloud.com</a>
 </p>
